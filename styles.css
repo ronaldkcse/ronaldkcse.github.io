@@ -1,5 +1,5 @@
 body {
-    background-color:purple;
+    background-color:blueviolet;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -20,7 +20,7 @@ body {
 
 .assignment img{
     width: 200px;
- border:2px solid gray;
+ border:2px solid rgb(255, 255, 255);
  margin-right: 20px;
  border-radius: 5px;
  display: block;
@@ -28,13 +28,13 @@ body {
 }
 
 h1{
-    color: gold;
+    color: red;
     text-align: center;
 }
 
 a{
     text-decoration: none;
-    color: gray;
+    color: white;
 }
 
 .assignment a:hover{
